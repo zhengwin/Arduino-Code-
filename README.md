@@ -1,2 +1,2 @@
 # Arduino-Code-
-Arduino Code Snippets
+Popular guitar hero game made using Arduino UNO Microcontroller, Breadboard, buttons, LEDS, and other digital logic devices
